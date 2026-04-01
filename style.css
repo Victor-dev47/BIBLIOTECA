@@ -117,3 +117,6 @@ button{
 button:hover{
     background: #1d4ed8;
 }
+.card form{
+    max-width: 600px;
+}
